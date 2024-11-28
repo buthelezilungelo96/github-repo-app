@@ -1,4 +1,4 @@
-# Meyk Notion App
+# Github Repository Search App.
 
 This React application, built with TypeScript and Vite, provides a user-friendly interface for exploring GitHub repositories. It utilizes Ant Design components, such as Table and Modal, to display information effectively. The app also integrates various packages like React Query, Axios, and React Charts to enhance functionality and user experience.
 
@@ -11,11 +11,12 @@ This React application, built with TypeScript and Vite, provides a user-friendly
 
 ### Setup Instructions
 
+
 1. **Clone the Repository**
 
    ```bash
    git clone <repository-url>
-   cd meyk-app
+   cd github-repo-app
 
 
 2. **Configure Environment Variables**
