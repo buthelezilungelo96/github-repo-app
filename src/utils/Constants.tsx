@@ -14,7 +14,7 @@ export const MENU_ITEMS = [
 
 export const NAV_MENUS = [
   {
-    icon: 'search_image',
+    icon: 'search-repos',
     path: '/repositories',
     title: 'Search Repositories',
     linkTitle: 'Search Repositories',
